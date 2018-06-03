@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate-readme-template",
+  "version": "1.0.0",
+  "description": "Boilerplate README.md Template for GitHub use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladocar/boilerplate-readme-template.git"
+  },
+  "keywords": [
+    "readme",
+    "readme.md",
+    "template",
+    "starter-kit",
+    "starter",
+    "template",
+    "html-template",
+    "github",
+    "Boilerplate"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladocar/boilerplate-readme-template/issues"
+  },
+  "homepage": "https://github.com/vladocar/boilerplate-readme-template#readme"
+}
