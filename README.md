@@ -41,7 +41,7 @@ We will use markdown for the Syntax Highlighting
 <h3> Download & Installation </h3>
 
 ```shell
-$ npm i some-awesome-library
+$ npm i boilerplate-readme-template
 ```
 <h3>Contributing</h3>
 Keep it simple. Keep it minimal. Don't put every single feature just because you can.
