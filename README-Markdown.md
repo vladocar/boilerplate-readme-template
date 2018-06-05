@@ -33,7 +33,9 @@ Describe you project -> I hate to always "reinvent" README.md on GitHub that is 
 
 ### Download & Installation
 
-\`\`\`shell $ npm i boilerplate-readme-template \`\`\`
+```shell 
+$ npm i boilerplate-readme-template 
+```
 
 ### Contributing
 
