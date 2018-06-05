@@ -18,7 +18,9 @@ Describe you project -> I hate to always "reinvent" README.md on GitHub that is 
 
 ### Demo -> Show me what you got
 
-[Link to your awesome Demo](#) [Another Link to your awesome Demo](#)
+[Link to your awesome Demo](#) 
+
+[Another Link to your awesome Demo](#)
 
 ### Code Demo
 
