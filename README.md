@@ -23,6 +23,8 @@
 
 <a href="#"> Another Link to your awesome Demo </a>
 
+<a href="https://www.designinspiration.info/"> Design Fonts Inspiration </a>
+
 <h3> Code Demo </h3>
 
 ```html
